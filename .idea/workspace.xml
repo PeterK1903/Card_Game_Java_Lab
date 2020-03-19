@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a586d62-f0d6-492f-9d00-9be82fd5b65d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZLRixMWO1ceiqbz0LfS5UDWJJU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="Application.Runner">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="CardGameLab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in CardGameLab" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CardGameLab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeckTest.canDealCard" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CardGameLab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeckTest" />
+      <option name="METHOD_NAME" value="canDealCard" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeckTest.canShuffleDeck" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CardGameLab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeckTest" />
+      <option name="METHOD_NAME" value="canShuffleDeck" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeckTest.deckHas52Cards" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CardGameLab" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeckTest" />
+      <option name="METHOD_NAME" value="deckHas52Cards" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+        <item itemvalue="JUnit.DeckTest.canDealCard" />
+        <item itemvalue="JUnit.DeckTest.canShuffleDeck" />
+        <item itemvalue="JUnit.DeckTest.deckHas52Cards" />
+        <item itemvalue="JUnit.All in CardGameLab" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a586d62-f0d6-492f-9d00-9be82fd5b65d" name="Default Changelist" comment="" />
+      <created>1584616518286</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584616518286</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1159" y="264" key="#com.intellij.ide.util.MemberChooser" timestamp="1584625637650">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1159" y="246" key="#com.intellij.ide.util.MemberChooser/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1584624969960" />
+    <state x="-1159" y="264" key="#com.intellij.ide.util.MemberChooser/0.23.1280.727/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1584625637650" />
+    <state width="866" height="265" key="GridCell.Tab.0.bottom" timestamp="1584627430608">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1733" height="265" key="GridCell.Tab.0.bottom/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1584617568187" />
+    <state width="866" height="265" key="GridCell.Tab.0.bottom/0.23.1280.727/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1584627430608" />
+    <state width="866" height="265" key="GridCell.Tab.0.bottom/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1584621284419" />
+    <state width="866" height="265" key="GridCell.Tab.0.center" timestamp="1584627430597">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1733" height="265" key="GridCell.Tab.0.center/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1584617568180" />
+    <state width="866" height="265" key="GridCell.Tab.0.center/0.23.1280.727/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1584627430597" />
+    <state width="866" height="265" key="GridCell.Tab.0.center/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1584621284407" />
+    <state width="866" height="265" key="GridCell.Tab.0.left" timestamp="1584627430594">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1733" height="265" key="GridCell.Tab.0.left/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1584617568177" />
+    <state width="866" height="265" key="GridCell.Tab.0.left/0.23.1280.727/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1584627430594" />
+    <state width="866" height="265" key="GridCell.Tab.0.left/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1584621284406" />
+    <state width="866" height="265" key="GridCell.Tab.0.right" timestamp="1584627430599">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1733" height="265" key="GridCell.Tab.0.right/0.0.1280.800/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1584617568182" />
+    <state width="866" height="265" key="GridCell.Tab.0.right/0.23.1280.727/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1584627430599" />
+    <state width="866" height="265" key="GridCell.Tab.0.right/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1584621284409" />
+    <state width="866" height="327" key="GridCell.Tab.1.bottom" timestamp="1584627048612">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="866" height="327" key="GridCell.Tab.1.bottom/0.23.1280.727/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1584627048612" />
+    <state width="866" height="327" key="GridCell.Tab.1.center" timestamp="1584627048608">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="866" height="327" key="GridCell.Tab.1.center/0.23.1280.727/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1584627048608" />
+    <state width="866" height="327" key="GridCell.Tab.1.left" timestamp="1584627048607">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="866" height="327" key="GridCell.Tab.1.left/0.23.1280.727/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1584627048607" />
+    <state width="866" height="327" key="GridCell.Tab.1.right" timestamp="1584627048610">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="866" height="327" key="GridCell.Tab.1.right/0.23.1280.727/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1584627048610" />
+    <state x="-1380" y="111" width="816" height="825" key="find.popup" timestamp="1584616570799">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1380" y="111" width="816" height="825" key="find.popup/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1584616570799" />
+  </component>
+</project>
